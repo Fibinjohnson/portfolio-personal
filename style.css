@@ -1,0 +1,141 @@
+h2{
+    margin-left: 9%;
+}
+.navbar-nav{
+    margin-left: 39%;
+}
+.col{
+    margin-left: -5%;
+}
+.profile{
+    border-radius: 50%;
+    
+    border-color: black;
+}
+.h5{
+    margin-bottom: -0.5rem;
+}
+.role{
+    margin-left: 6%;
+}
+.card2{
+    margin-left: 8%;
+    padding-bottom: 6%;
+
+}
+.card3{
+    margin-left: 8%;
+    padding-bottom: 6%;
+}
+.card1{
+    margin-left: 6%;
+    padding-bottom: 6%;
+}
+.home{
+    height: 100%;
+    padding-top: 2%;
+    padding-bottom: 7%;
+    background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+    
+}
+.col1{
+    padding-top: 6%;
+    padding-left: 4%;
+    padding-bottom: 7%;
+    padding-right: 4%;
+  
+   
+}
+.ph{
+    margin-top: 15%;
+    margin-left: -14%;
+    margin-right: 0%;
+}
+.email{
+    padding-bottom: 0%;
+    margin-left: -2%;
+    padding-right: 0%;
+}
+
+.name{
+    margin-left: 5%;
+}
+.head-er{
+    padding-right: -10%;
+    
+    background-color: #05273d;
+background-image: linear-gradient(135deg, #0c293c 0%, #2f3281 100%);
+
+position: sticky;
+position: -webkit-sticky;
+top: 0;
+}
+.row{
+    
+    
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;}
+            
+.projects{
+    padding-left: 42%;
+    padding-bottom: 4%;
+}
+.card-img-top{
+    width: 60%;
+   height: 500%;
+   margin-left: 20%;
+}
+.Education{
+    margin-left: -8%;
+}
+.contact{
+    padding: 4%;
+    height: 400px;
+    padding: left 10%;
+}
+.col-md-3{
+    background: #ff9b00;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.contact-info{
+    margin-top:10%;
+    padding-right: 0%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #25274d;
+    color: #e9e0e0;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:hover{
+    color: #eee3e3;
+    background-color: #696970;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
+
+
+
+body{
+    background-color: #dbdce3;
+    
+}
